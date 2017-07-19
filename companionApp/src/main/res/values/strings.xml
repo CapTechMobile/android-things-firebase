@@ -1,0 +1,11 @@
+<resources>
+  <string name="app_name">Lights Companion</string>
+  <string name="red">Red</string>
+  <string name="blue">Blue</string>
+  <string name="green">Green</string>
+  <string name="red_light_status">Red Light Status:</string>
+  <string name="blue_light_status">Blue Light Status:</string>
+  <string name="green_light_status">Green Light Status:</string>
+  <string name="turn_all_off">TURN ALL OFF</string>
+  <string name="turn_all_on">TURN ALL ON</string>
+</resources>
