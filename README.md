@@ -13,3 +13,6 @@ A sample project that creates a "Home Lighting System" using Android Things and 
 Expected wiring of the Raspberry Pi and LEDs is below -- if you choose to use a different device or different GPIO pins, be sure to update the pin values in the [MainActivity](/app/src/main/java/atownsend/androidthingsfirebase/MainActivity.java) for the Android Things app.
 
 ![Wiring image](/android_things_sketch.png)
+
+# Demo
+![Demo gif](/demo.gif)
